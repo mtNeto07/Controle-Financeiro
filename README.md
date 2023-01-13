@@ -1,10 +1,11 @@
-#Controle Financeiro 💸 
+# Controle Financeiro 💸 
 
-#💻 Tecnologias
+# 💻 Tecnologias
   ⚛️ React
+  
 💅 Styled components
 
-#Como rodar o projeto
+# Como rodar o projeto
 #Clone o projeto
     $ git clone https://github.com/mtNeto07/Controle-Financeiro
 
